@@ -1,0 +1,4 @@
+vendor/
+*.so
+terraform.tfvars
+*.tfstate*
